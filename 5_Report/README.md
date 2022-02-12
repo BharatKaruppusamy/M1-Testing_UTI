@@ -26,3 +26,31 @@ Language and IDE
 1.C
 
 2.Visual Studio Code
+
+4W'S and 1H
+----------------------
+
+Who
+-------------------
+
+Any user who are intersted can take the test .
+
+What
+--------------------
+
+The project is main aim is to anyone to participate the test.
+
+When
+--------------------
+
+Students are actively participate because the test is based on c language.
+
+Why
+------------------
+The project is about the students to get knowledge about language.
+
+How
+--------------------
+The user can take the test by entering his name.
+
+
