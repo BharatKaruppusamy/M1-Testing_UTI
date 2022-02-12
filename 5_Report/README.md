@@ -53,4 +53,8 @@ How
 --------------------
 The user can take the test by entering his name.
 
+Result
+--------------------
+![Screenshot (23)](https://user-images.githubusercontent.com/98965702/153711846-e81643a0-0d02-41a0-bf8b-728b2c2a1b0b.png)
+
 
